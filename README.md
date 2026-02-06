@@ -19,5 +19,3 @@ A decision support engine for retail inventory management.
 2. `npm install`
 3. `npm run dev`
 
-## Configuration
-Use `.env` files in both `backend` and `frontend` directories to manage settings like `DATABASE_URL` and `VITE_API_BASE`.
